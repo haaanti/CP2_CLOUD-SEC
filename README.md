@@ -3,7 +3,7 @@
 Description
 ------------
 
-Repository containing a pipeline **Jenkinsfile** that is used to deploy a **EC2 instance**, and further deploy a **"LAMP" stack with WordPress**.
+Repository containing a pipeline **Jenkinsfile** that is used to deploy a **EC2 instance**, and further deploy a **"LAMP" stack with WordPress** using a **Ansible playbook**.
 
 How to use
 ------------
